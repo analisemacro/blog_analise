@@ -1,7 +1,7 @@
 {
     "id": "180B497A",
-    "path": "C:/Users/luiz_/Downloads/blog_analise/analise/.github/workflows/publish.yml",
-    "project_path": ".github/workflows/publish.yml",
+    "path": "C:/Users/luiz_/Downloads/blog_analise/analise/.github/workflows/_publish.yml",
+    "project_path": ".github/workflows/_publish.yml",
     "type": "yaml",
     "hash": "2769739863",
     "contents": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666812272033,
+    "last_content_update": 1666812272,
     "read_only": false,
     "read_only_alternatives": []
 }
