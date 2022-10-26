@@ -10,5 +10,11 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "f8926106"
+  },
+  "posts/inflacao/index.qmd": {
+    "index.html": "73a96caa"
+  },
+  "posts/sgs/index.qmd": {
+    "index.html": "11d5d0f0"
   }
 }
