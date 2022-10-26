@@ -1,0 +1,31 @@
+{
+    "id": "63BF7B7F",
+    "path": "C:/Users/luiz_/Downloads/blog_analise/analise/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "169668922",
+    "contents": "",
+    "dirty": false,
+    "created": 1666810047489.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "189:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1666810063,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1666810063740,
+    "read_only": false,
+    "read_only_alternatives": []
+}
